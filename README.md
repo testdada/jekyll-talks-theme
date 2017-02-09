@@ -16,7 +16,7 @@ That's it :-)
 
 ## Live Demo
 
-See a live demo @ [`henrythemes.github.io/jekyll-talks-theme` »](http://henrythemes.github.io/jekyll-talks-theme)
+See a live demo @ [`testdada.github.io/jekyll-talks-theme` »](http://testdada.github.io/jekyll-talks-theme)
 
 Sample talks include:
 
